@@ -1,0 +1,35 @@
+.navbar{
+            background-color: white;
+            border-radius: 30px;
+          }
+          
+.navbar li{
+            float:left;
+            list-style: none; 
+            margin: 13px 20px;
+        }
+        
+.navbar li a{
+            padding: 3px 3px;
+            text-decoration: none;
+            color: black;
+        }  
+   
+        
+.navbar input{
+            border: 2px solid black;
+            border-radius: 14px;
+            padding: 3px 17px;
+            width: 129px;
+        }
+        
+table, th, td {
+  border: 1px solid black;
+}   
+
+ 
+
+.bg {
+ background-image: url("paper.gif");
+ background-color: #cccccc;
+}    
